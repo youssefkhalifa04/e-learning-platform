@@ -1,4 +1,8 @@
+Voici la version **corrigée** et **optimisée** de ton `README.md` :
 
+---
+
+```markdown
 # 🎓 E-Learning Platform - 9arrini
 
 Une plateforme moderne de formation en ligne, conçue avec React, NextUI, DaisyUI, Tailwind CSS, Vite et PHP pour le backend.
@@ -11,7 +15,7 @@ Une plateforme moderne de formation en ligne, conçue avec React, NextUI, DaisyU
 - 📚 Liste et détails des cours
 - 🧾 Offres d'abonnement
 - 👥 Authentification (inscription / connexion)
-- 🧑‍🏫 Page À propos & contact
+- 🧑‍🏫 Page À propos & Contact
 - 📊 Tableau des utilisateurs
 - 🔐 Pages privées à venir (dashboard, suivi de progression)
 
@@ -83,13 +87,15 @@ Voici un aperçu de la plateforme :
 ![Landing Page](./frontend/src/assets/landing-page.png)
 
 ### 📚 Page des cours
-![Courses Page](./frontend/src/assets/courses-page.png)
+![Courses Page](./frontend/src/assets/Courses.png)
 
 ### 🧾 Page des offres
-![Offers Page](./src/assets/offers-page.png)
+![Offers Page](./frontend/src/assets/Offers.png)
 
 ### 🔐 Page de connexion
-![Login Page](./src/assets/login-page.png)
+![Login Page](./frontend/src/assets/Login.png)
+
+---
 
 ## 📌 À venir
 
@@ -97,7 +103,7 @@ Voici un aperçu de la plateforme :
 - Gestion des utilisateurs
 - Tableau de bord utilisateur
 - Paiements et abonnements
-- Notifications
+- Notifications en temps réel
 
 ---
 
@@ -108,4 +114,6 @@ MIT - Open source & libre d'utilisation
 
 ---
 
-Tu veux que je t’envoie ce fichier prêt à copier-coller ou que je l’ajoute automatiquement à ton dépôt (si tu m’autorises) ?
+✅ Tu peux **copier-coller ce contenu dans ton fichier `README.md`**, ou si tu veux, je peux t’aider à le push dans ton dépôt via Git si tu me confirmes l’environnement.
+
+Tu veux aussi un `README` en version anglaise ?
