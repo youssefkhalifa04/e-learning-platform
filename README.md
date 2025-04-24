@@ -80,7 +80,7 @@ cd backend
 Voici un aperçu de la plateforme :
 
 ### 🎯 Page d'accueil
-![Landing Page](./src/assets/landing-page.png)
+![Landing Page](./frontend/src/assets/landing-page.png)
 
 ### 📚 Page des cours
 ![Courses Page](./src/assets/courses-page.png)
