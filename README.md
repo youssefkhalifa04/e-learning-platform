@@ -83,7 +83,7 @@ Voici un aperçu de la plateforme :
 ![Landing Page](./frontend/src/assets/landing-page.png)
 
 ### 📚 Page des cours
-![Courses Page](./src/assets/courses-page.png)
+![Courses Page](./frontend/src/assets/courses-page.png)
 
 ### 🧾 Page des offres
 ![Offers Page](./src/assets/offers-page.png)
