@@ -1,8 +1,4 @@
-Voici la version **corrigée** et **optimisée** de ton `README.md` :
 
----
-
-```markdown
 # 🎓 E-Learning Platform - 9arrini
 
 Une plateforme moderne de formation en ligne, conçue avec React, NextUI, DaisyUI, Tailwind CSS, Vite et PHP pour le backend.
@@ -112,8 +108,3 @@ Voici un aperçu de la plateforme :
 MIT - Open source & libre d'utilisation
 ```
 
----
-
-✅ Tu peux **copier-coller ce contenu dans ton fichier `README.md`**, ou si tu veux, je peux t’aider à le push dans ton dépôt via Git si tu me confirmes l’environnement.
-
-Tu veux aussi un `README` en version anglaise ?
