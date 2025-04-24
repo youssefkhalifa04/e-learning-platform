@@ -16,8 +16,9 @@ import { useNavigate } from "react-router-dom";
 export default function LandingPage() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
   const navigate = useNavigate();
-
+  const login = false ;
   return (
+    
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-white to-blue-50 px-6 py-12">
       {/* Header/Navbar */}
       <Navbar
@@ -31,6 +32,7 @@ export default function LandingPage() {
         <NavbarContent className="hidden sm:flex gap-6" justify="end">
           <NavbarContent className="hidden sm:flex gap-6" justify="end">
             <NavbarItem className="cursor-pointer" onClick={() => navigate("/")}>Accueil</NavbarItem>
+
             {[ "Cours", "À propos", "Contact", "Offers"].map(
               (item, idx) => (
                 <NavbarItem
@@ -44,6 +46,7 @@ export default function LandingPage() {
                 </NavbarItem>
               )
             )}
+            <NavbarItem className="cursor-pointer" onClick={() => navigate("/"+(login ? "/" : "login"))}>{login ? "Logout" : "Login" }</NavbarItem>
           </NavbarContent>
         </NavbarContent>
         <NavbarContent justify="end" className="sm:hidden">
