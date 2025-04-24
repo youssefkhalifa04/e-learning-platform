@@ -106,5 +106,5 @@ Voici un aperçu de la plateforme :
 ## 📄 Licence
 
 MIT - Open source & libre d'utilisation
-```
+
 
