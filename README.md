@@ -84,7 +84,7 @@ cd backend
 Voici un aperçu de la plateforme :
 
 ### 🎯 Page d'accueil
-![Landing Page](./frontend/src/assets/landing-page.png)
+![Landing Page](./frontend/src/assets/landing.png)
 
 ### 📚 Page des cours
 ![Courses Page](./frontend/src/assets/courses.png)
